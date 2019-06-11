@@ -3,7 +3,6 @@ package com.hcl.ing.retailbank.app.dto;
 import java.io.Serializable;
 import java.util.Date;
 
-import com.hcl.ing.retailbank.app.util.ApiResponse;
 
 public class TransactionDetails  implements Serializable {
 	
